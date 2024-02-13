@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052559591421",
+    "project_id": "quic-kmatch-v6huor",
+    "storage_bucket": "quic-kmatch-v6huor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052559591421:android:2cd0bd4945407e9dea7b94",
+        "android_client_info": {
+          "package_name": "com.ct.quickmatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbke-iplrVHj6hGJ2ROn-GET1MbJb0WoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
